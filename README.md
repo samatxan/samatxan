@@ -19,6 +19,9 @@
 <p align="left" dir="auto">
 <a href="https://www.instagram.com/samat_xann/" rel="nofollow">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samat_xann" width="40" height="30" /></a>
+<a href="https://t.me/samat_xann"  rel="nofollow" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="telegram" width='30' height='30' />
+</a>
 </p>
 
 ## Languages and Tools:
