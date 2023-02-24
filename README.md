@@ -14,6 +14,13 @@
 
 ---
 
+## Connect with me:
+
+<p align="left" dir="auto">
+<a href="https://www.instagram.com/samat_xann/" rel="nofollow">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samat_xann" width="40" height="30" /></a>
+</p>
+
 ## Languages and Tools:
 
 <p>
